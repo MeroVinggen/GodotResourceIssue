@@ -1,0 +1,8 @@
+[gd_resource type="Resource" script_class="ExampleResource2" load_steps=3 format=3 uid="uid://cjl0v1gr6pu8t"]
+
+[ext_resource type="Resource" uid="uid://isrh5qc8wctc" path="res://exRes22.tres" id="1_go08k"]
+[ext_resource type="Script" path="res://exampleResource2.gd" id="2_rjq7a"]
+
+[resource]
+script = ExtResource("2_rjq7a")
+prop2Resource = ExtResource("1_go08k")

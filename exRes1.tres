@@ -1,0 +1,9 @@
+[gd_resource type="Resource" script_class="ExampleResource" load_steps=3 format=3 uid="uid://8chki6sv344d"]
+
+[ext_resource type="Script" path="res://exampleResource.gd" id="1_oqg8l"]
+[ext_resource type="Resource" uid="uid://djspkrxuk2o0h" path="res://exRes2.tres" id="1_vrv70"]
+
+[resource]
+script = ExtResource("1_oqg8l")
+propWithDescription = 1
+prop2Resource = ExtResource("1_vrv70")
